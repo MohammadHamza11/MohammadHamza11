@@ -1,13 +1,13 @@
 # Hi, I'm Hamza 👋
 
-**Software engineer** based in Faisalabad, Pakistan. I build full-stack web apps, data pipelines, and applied AI systems.
+**Data engineer** based in Pakistan. I build scraping systems, data pipelines, full-stack web apps, and applied AI systems.
 
-CS graduate from **FAST NUCES Faisalabad (2026)**. Two internships at **Qbatch** across full-stack development and data engineering. I'm currently open to software engineering roles (full-stack, backend, AI/ML, computer vision), remote or on-site.
+CS graduate from **FAST NUCES** (2026). I'm a Data Engineer at **Qbatch**, where I'm working on a large-scale scraping system, after a data engineering internship there. I'm open to software engineering and data engineering roles (backend, full-stack, AI/ML), remote or on-site.
 
 ## What I'm working on
 
+- **Scraping and data infrastructure at Qbatch**: a TypeScript scraping framework with a provider registry, CLI, proxy support, and PostgreSQL storage, plus a Go HTTP gateway that sits between scrapers and external services.
 - **Silsila**: my final year project. An AI-driven FMCG inventory and redistribution platform for independent stores, with demand forecasting, optimization, and a B2C clearance marketplace. Next.js, Express, Flask/Django, PostgreSQL/PostGIS, Docker.
-- **Scraping and data infrastructure**: a TypeScript scraping framework with a provider registry, CLI, proxy support, and PostgreSQL storage, plus a Go HTTP gateway that sits between scrapers and external services.
 - **Applied ML**: computer vision and generative models, from classical feature engineering to diffusion models and VLM fine-tuning.
 
 ## Selected projects
@@ -47,6 +47,7 @@ CS graduate from **FAST NUCES Faisalabad (2026)**. Two internships at **Qbatch**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 **AI/ML and scraping**
 
@@ -71,4 +72,4 @@ CS graduate from **FAST NUCES Faisalabad (2026)**. Two internships at **Qbatch**
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzagill20033@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaerroo/)
 
-Ask me about full-stack architecture, scraping at scale, or getting AI features into real products.
+Ask me about scraping at scale, data pipelines, or getting AI features into real products.
